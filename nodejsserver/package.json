@@ -4,7 +4,7 @@
   "description": "Wowza Webrtc Group Call Sample",
   "main": "videochat.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {},
